@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...[Twitter](https://www.twitter.com/alidumandev)
 - 📫 How to reach me: ...[Mail](alidumanpr@gmail.com)
 - 😄 Pronouns: ... He / Him
-- ⚡ Fun fact: ... half finish
+- ⚡ Fun fact: ... half finish.
 -->
