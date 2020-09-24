@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...BackEnd and DevOps
 - 💬 Ask me about ...[Twitter](https://www.twitter.com/alidumandev)
-- 📫 How to reach me: ...[Mail](alidumanpr@gmail.com)
+- 📫 How to reach me: ...[Mail](mailto:alidumanpr@gmail.com)
 - 😄 Pronouns: ... He / Him
 - ⚡ Fun fact: ... half finish.
 
